@@ -20,4 +20,9 @@ euler9.py -- https://projecteuler.net/problem=9
 
 euler10.py -- https://projecteuler.net/problem=10
 
+euler11.py -- https://projecteuler.net/problem=11
+euler11.txt -- data file for euler11.py
+
+euler12.py -- https://projecteuler.net/problem=12
+
 euler392.py -- https://projecteuler.net/problem=392
